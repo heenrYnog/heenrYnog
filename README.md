@@ -1,4 +1,4 @@
-### Olá! Meu nome é Henry. Seja bem vindo ao meu humilde GitHub.👋
+### Hello!👋
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heenrYnog&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=FFFF00&text_color=FFFF00&bg_color=000000" alt="Henry Furlan github stats" /> 
