@@ -1,9 +1,6 @@
 ### Hello!👋
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heenrYnog&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=FFFF00&text_color=FFFF00&bg_color=000000" alt="Henry Furlan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenrYnog&layout=compact&hide_border=true&title_color=FFFF00&text_color=FFFF00&bg_color=000000" />
-</div>
+![Henry GitHub stats](https://github-readme-stats.vercel.app/api?username=heenrYnog&show_icons=true&theme=merko)
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
