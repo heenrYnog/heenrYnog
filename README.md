@@ -12,7 +12,6 @@
 ![Apex](https://img.shields.io/badge/Apex-FFB915?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp;
 ![SOQL](https://img.shields.io/badge/SOQL-0070D2?style=for-the-badge&logo=database&logoColor=white)&nbsp;
 ![Lightning Web Components](https://img.shields.io/badge/LWC-0D1117?style=for-the-badge&logo=lightning&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
 ---
 
