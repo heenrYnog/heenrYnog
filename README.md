@@ -1,7 +1,5 @@
 ### Hello! 👋
 
-![Henry GitHub stats](https://github-readme-stats.vercel.app/api?username=heenrYnog&show_icons=true&theme=great-gatsby)
-
 ### Studying at the moment:
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp;
 ![Apex](https://img.shields.io/badge/Apex-FFB915?style=for-the-badge&logo=salesforce&logoColor=white)&nbsp;
